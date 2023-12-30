@@ -2,9 +2,8 @@
 <p align="center">
   <samp>
     Hi there 👋, I'm a software engineer. <br>
-    My journey navigates through the software & system development, where I intertwine <br> 
-    innovation with robust systems. Let's connect 
-    and explore the limitless possibilities of tech !
+    My adventure traverses software and system development. <br>
+    Time to explore!
   </samp>
 </p>
 
@@ -12,9 +11,8 @@
 # .code
 <p align="center">
   <samp>
-    I harness the power of GitHub for my personal adventures in coding, sharing tidbits of wisdom, <br>
-    and exploring new horizons of technology. While GitLab and various private Git systems serve <br>
-    as primarily at work, GitHub is my playground for innovation and sharing.
+    For my personal coding projects, I turn to GitHub to share and explore new stuff. <br>
+    Primarily, I use private git systems for business.
   </samp>
 </p>
 
@@ -57,7 +55,7 @@
   <samp>
     my personal blog at 
     <a href="https://devopswe.medium.com/" target="_blank">devopswe.medium.com</a> <br>
-    and join the conversation on Twitter <a href="https://twitter.com/devopSWE" target="_blank">@devopSWE</a>.
+    Twitter <a href="https://twitter.com/devopSWE" target="_blank">@devopSWE</a>.
   </samp>
 </p>
 
