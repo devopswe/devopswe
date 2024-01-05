@@ -55,7 +55,6 @@
   <samp>
     my personal blog at 
     <a href="https://devopswe.medium.com/" target="_blank">devopswe.medium.com</a> <br>
-    Twitter <a href="https://twitter.com/devopSWE" target="_blank">@devopSWE</a>.
   </samp>
 </p>
 
