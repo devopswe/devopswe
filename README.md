@@ -11,43 +11,31 @@
 # .code
 <p align="center">
   <samp>
-    For my personal coding projects, I turn to GitHub to share and explore new stuff. <br>
-    Primarily, I use private git systems for business.
+    I use GitHub to share and explore new stuff. <br>
+    Primarily, I use GitLab for real prod systems and business.
   </samp>
 </p>
 
 
 <h2 align="center">.tech-stacks</h2>
 <p align="center">
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/63eb5028ba613003f044f0391912be356e0f1b97/logo/logo_with_border.svg" alt="Kubernetes" width="60" height="60"/>
-  <!-- Rancher -->
-  <img src="https://www.rancher.com/assets/img/logos/rancher-logo-cow-blue.svg" alt="Rancher" width="60" height="60"/>
-  <!-- Docker -->
-  <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" height="60"/>
-  <!-- Helm -->
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" height="60"/>
-  <!-- Harbor -->
-  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-ar21.svg" alt="Harbor" height="60"/>
-  <!-- Terraform -->
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="60"/>
+  <div align="center">
+    
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   <br>
-  <!-- ELK -->
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="60" height="60"/>
-  <!-- Prometheus -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" height="60"/>
-  <!-- Grafana -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" height="60"/>
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   <br>
-  <!-- Ansible -->
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="75"/>
-  <!-- Keycloak -->
-  <img src="https://www.keycloak.org/resources/images/logo.svg" alt="Keycloak" width="120" height="75"/>
-  <br>
-  <!-- Golang -->
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt="Golang" width="90" height="75"/>
-  <!-- Python -->
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="60"/>
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  </div>
 </p>
 
 # .me
@@ -57,6 +45,11 @@
     <a href="https://devopswe.medium.com/" target="_blank">devopswe.medium.com</a> <br>
   </samp>
 </p>
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=devopswe&style=for-the-badge) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devopswe/)
+</div>
 
 # .contact
 <p align="center">
