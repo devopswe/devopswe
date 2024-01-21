@@ -42,7 +42,7 @@
 # .me
 <p align="center">
   <samp>
-    my personal blog at 
+    Tech Blog:  
     <a href="https://devopswe.medium.com/" target="_blank">devopswe.medium.com</a> <br>
   </samp>
 </p>
@@ -55,6 +55,6 @@
 # .contact
 <p align="center">
   <samp>
-    <a href="mailto:devopswe@engineer.com">devopswe@engineer.com</a>.
+    E-mail: <a href="mailto:devopswe@engineer.com">devopswe(at)engineer(dot)com</a>
   </samp>
 </p>
