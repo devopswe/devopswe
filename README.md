@@ -1,9 +1,9 @@
 # .init
 <p align="center">
   <samp>
-    Hi there 👋, I'm a software engineer. <br>
-    My adventure traverses software and system development. <br>
-    Time to explore!
+    Hi there 👋
+    <br> I'm ex-Linux System Engineer & Software Engineer MSc.
+    <br> Time to explore!
   </samp>
 </p>
 
@@ -12,12 +12,12 @@
 <p align="center">
   <samp>
     I use GitHub to share and explore new stuff. <br>
-    Primarily, I use GitLab for real prod systems and business.
+    I use on-prem GitLab for real prod systems and business.
   </samp>
 </p>
 
 
-<h2 align="center">.tech-stacks</h2>
+# .tech
 <p align="center">
   <div align="center">
     
