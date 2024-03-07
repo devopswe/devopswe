@@ -1,23 +1,14 @@
 # .init
 <p align="center">
   <samp>
-    Hi there 👋
+    hi there 👋
     <br> I'm ex-Linux System Engineer & Software Engineer MSc.
-    <br> Time to explore!
+    <br><br> I use GitHub to share and explore new stuff. 
+    <br> I use on-prem GitLab for real prod systems and business.
   </samp>
 </p>
-
 
 # .code
-<p align="center">
-  <samp>
-    I use GitHub to share and explore new stuff. <br>
-    I use on-prem GitLab for real prod systems and business.
-  </samp>
-</p>
-
-
-# .tech
 <p align="center">
   <div align="center">
     
@@ -42,19 +33,14 @@
 # .me
 <p align="center">
   <samp>
-    Tech Blog:  
+    tech blog:  
     <a href="https://devopswe.medium.com/" target="_blank">devopswe.medium.com</a> <br>
+    electronic mail address: <a href="mailto:devopswe@engineer.com">devopswe(at)engineer(dot)com</a>
   </samp>
 </p>
 <div align="center">
-  
+
+
 ![](https://komarev.com/ghpvc/?username=devopswe&style=for-the-badge) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devopswe/)
 </div>
-
-# .contact
-<p align="center">
-  <samp>
-    E-mail: <a href="mailto:devopswe@engineer.com">devopswe(at)engineer(dot)com</a>
-  </samp>
-</p>
