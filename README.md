@@ -2,9 +2,9 @@
 <p align="center">
   <samp>
     hi there 👋
-    <br> I'm ex-Linux System Engineer & Software Engineer MSc.
+    <br> I'm ex-Linux System Administrator and Software Engineer
     <br><br> I use GitHub to share and explore new stuff. 
-    <br> I use on-prem GitLab for real prod systems and business.
+    <br> I use on-prem GitLab for business.
   </samp>
 </p>
 
